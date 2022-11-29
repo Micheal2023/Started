@@ -1,0 +1,279 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+#container{
+    background-image: url(./images/rectangle\ 99.png);
+    height: 100vh;
+}
+#header{
+    background-color: #242424;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+#logo{
+    margin-left: 15px;
+}
+ul,li,a{
+    display: flex;
+    margin: 3px;
+    margin-left: 15px;
+}
+a{
+    color: white;
+}
+#stay:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+#buttt{
+    background-color: transparent;
+    color: yellow;
+    border: 2px solid yellow;
+    border-radius:5px ;
+    margin-left: 15px;
+}
+#news{
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+#bold{
+    margin-top: 300px;
+    background-color: black;
+    height: 60vh;
+    color: white;
+    text-align: center;
+}
+#bod{
+    padding: 40px;
+}
+#kay{
+    text-align: center;
+    padding-left: 700px;
+    text-transform: capitalize;
+   
+}
+#one{
+    padding-bottom: 10px;
+    text-align: center;
+    display: flex;
+}
+#two{
+    display: flex;
+    margin-bottom: 10px;
+}
+#three{
+    display: flex;
+}
+
+#seven{
+    display: flex;
+    margin-top: 15px;
+}
+#eight{
+    display: flex;
+}
+#nine{
+    display: flex;
+}
+#four{
+    display: flex;
+}
+#five{
+    display: flex;
+}
+#six{
+    display: flex;
+}
+#key{
+    color: black;
+    margin-right: 20px;
+}
+#kol{
+    display: flex;
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 20px;
+}
+#band{
+    position: relative;
+    display: flex;
+    height: 40vh;
+    bottom: 240px; 
+    margin-left: 380px;
+    border-radius: 5px;
+}
+#second{
+    background-image: url(./images/Rectangle\ 97.png);
+    height: 90vh;
+}
+#roll1{
+    padding-top: 80px;
+    margin-left: 100px;
+}
+#rin,#rind{
+    color: white;
+}
+#rinds,#rinse,#rindss,#reds,#rand,#ran{
+    color: #dfdfdf;
+}
+#rin{
+    margin-bottom: 10px;
+}
+#rind{
+    margin-bottom: 10px;
+}
+#rand{
+    margin-top: 12px;
+}
+#ran{
+    margin-bottom: 10px;
+}
+#ram{
+    color: black;
+    text-align: center;
+    margin-left: 20px;
+}
+#rams{
+    background-color: yellow;
+    border-radius: 5px;
+    padding: 5px;
+    border: 2px solid yellow;
+}
+#rain{
+    position: relative;
+    display: flex;
+    margin-left: 550px;
+    height: 40vh;
+    bottom: 230px;
+}
+#home{
+    background-image: url(./images/Rectangle\ 93.png);
+    height: 430px;
+}
+#home1{
+    color: #dfdfdf;
+    text-transform: capitalize;
+    margin-left: 600px;
+    padding-top: 80px;
+
+}
+#hoe{
+    color: white;
+    margin-bottom: 10px;
+}
+#hoes{
+    color: white;
+    margin-bottom: 20px;
+    font-size: 27px;
+}
+#hom{
+    margin-top: 20px;
+}
+#hol{
+    background-color: yellow;
+    padding: 2px;
+    padding-left: 10px;
+    border: 2px solid yellow;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+#hoi{
+    color: black;
+    padding-right: 20px;
+}
+#hore{
+    position: relative;
+    display: flex;
+    height: 40vh;
+    bottom: 250px;
+    margin-left: 250px;
+}
+#grape{
+    background-image: url(./images/Rectangle\ 92.png);
+    height: 100vh;
+}
+#fruit{
+    color: #dfdfdf;
+    margin-left: 100px;
+    padding-top: 130px;
+}
+#fro{
+    color: white;
+    padding-bottom: 10px;
+}
+#from{
+    color: white;
+    padding-bottom: 15px;
+}
+#funs{
+    margin-top: 20px;
+}
+#fow{
+    color: #000000;
+    margin-left: 10px;
+}
+#fows{
+    background-color: yellow;
+    margin-top: 15px;
+    border: 2px solid yellow;
+    border-radius: 5px;
+}
+#foul{
+    position: relative;
+    display: flex;
+    margin-left: 540px;
+    height: 40vh;
+    bottom: 230px;
+}
+#shape{
+    background-color: #000000;
+    height: 77%;
+    color: white;
+}
+#same{
+    padding: 50px;
+    margin-left: 700px;
+
+}
+#say{
+    color: white;
+    margin-bottom: 8px;
+}
+#shame{
+    color: white;
+    margin-bottom: 12px;
+    font-size: 30px;
+}
+#stain,#safe,#save,#says,#stains{
+    color: #dfdfdf;
+}
+#stains{
+    margin-top: 20px;
+}
+#stars{
+     margin-top: 30px; 
+    background-color: yellow;
+     padding: 4px; 
+    border: 2px solid yellow;
+    border-radius: 5px;
+}
+#star{
+    color: #000000;
+    margin-left: 5px; 
+}
+#stroll{
+    position: relative;
+    display: flex;
+    height: 405.63px;
+    height: 40vh;
+    bottom: 300px;
+    margin-left: 420px;
+}

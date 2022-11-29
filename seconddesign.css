@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+#container{
+    background: url(./images/rectangle\ 1000.png);
+    height: 100vh;
+}
+#header{
+    display: flex;
+    background-color: #242424;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    height: 10vh;
+}
+#logo{
+    padding-left: 30px;
+}
+ul,li{
+    display: flex;
+    margin: 10px;
+    margin-left: 20px;
+    text-align: center;
+}
+a{
+    color: white;
+}
+#peace:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+#calm{
+    background-color: transparent;
+    color: yellow;
+    padding: 4px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+}
+#head1{
+    color: white;
+    text-align: center;
+    margin-top: 250px;
+    font-size: 35px;
+}
+#head2{
+    text-align: center;
+    margin-top: 210px;
+    padding: 10px;
+    background-color: black;
+    height: 5vh;
+}
+#part,#june{
+    width: 10%;
+    height: 5vh;
+    border-radius: 3px;
+    margin-left: -4px;
+}
+#con{
+    width: 10%;
+    height: 5vh;
+    background-color: #ffdf34;
+    margin-left:-7px;
+    border-radius:3px ;
+}
+#section1{
+    background-color: #242424;
+    height: 100vh;
+    display: flex;
+    padding-top: 50px;
+    padding-left: 30px;
+    justify-content: space-between;
+}
+/* #section1{
+    padding: 0%;
+    margin-left: 0%;
+} */
+
+
